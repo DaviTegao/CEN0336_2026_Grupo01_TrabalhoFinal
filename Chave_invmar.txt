@@ -1,0 +1,16 @@
+Séssil E possui espículas minerais?;Porifera;Plano de simetria Radial/Birradial?
+Plano de simetria Radial/Birradial?;Simetria birradial E 8 fileirasde pentes (ctenas) ciliados?;Corpo mole, geralmente com concha calcária (int./ext.)?
+Simetria birradial E 8 fileirasde pentes (ctenas) ciliados?;Ctenophora;Corpo gelatinoso, tentáculos E presença de cnidócitos?
+Corpo gelatinoso, tentáculos E presença de cnidócitos?;Cnidaria;Echinodermata
+Corpo mole, geralmente com concha calcária (int./ext.)?;Mollusca;Presença de exoesqueleto E apêndices articulados?
+Presença de exoesqueleto E apêndices articulados?;Arthropoda;4 pares de pernas curtas com garras e corpo atarracado?
+4 pares de pernas curtas com garras e corpo atarracado?;Tardigrada;Corpo segmentado com anéis visíveis (metâmeros)?
+Corpo segmentado com anéis visíveis (metâmeros)?;Annelida;Corpo achatado dorsoventralmente?
+Corpo achatado dorsoventralmente?;Platyhelminthes;Corpo alongado/vermiforme?
+Corpo alongado/vermiforme?;Cilíndrico e geralmente afilado nas extremidades?;Possui lofóforo ou estrutura similar de tentáculos?
+Cilíndrico e geralmente afilado nas extremidades?;Nematoda;Corpo em fita E presença de probóscide eversível?
+Corpo em fita E presença de probóscide eversível?;Nemertea;Chaetognatha
+Possui lofóforo ou estrutura similar de tentáculos?;Corpo encerrado em duas valvas (dorsal/ventral)?;Chordata
+Corpo encerrado em duas valvas (dorsal/ventral)?Brachiopoda;Corpo colonial, formado por pequenos zoóides microscópicos?
+Corpo colonial, formado por pequenos zoóides microscópicos?;Bryozoa;Pseudolofóforo presente E sem tubo protegendo o corpo?
+Pseudolofóforo presente E sem tubo protegendo o corpo?;Entoprocta;Phoronidas
