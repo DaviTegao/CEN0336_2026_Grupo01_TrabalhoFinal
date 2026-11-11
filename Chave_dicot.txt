@@ -15,3 +15,19 @@ As estípulas são terminais?;Moraceae;Euphorbiaceae/Malvaceae
 A folha simples sem estípula é aromática?;O aroma é de casca de fruta?;Apresenta inflorescências em capítulos?
 O aroma é de casca de fruta?;Lauraceae;Solanaceae
 Apresenta inflorescências em capítulos?;Asteraceae (Compositae);Outras famílias
+As folhas são compostas?;As folhas são opostas/verticiladas?;As folhas simples são opostas?
+As folhas são opostas/verticiladas?;Bignoniaceae;As folhas alternas possuem estípulas?
+As folhas alternas possuem estípulas?;Fabaceae (Leguminosae);As folhas sem estípulas possuem pontuações translúcidas?
+As folhas sem estípulas possuem pontuações translúcidas?;Rutaceae;As folhas sem pontuações translúcidas são aromáticas?
+As folhas sem pontuações translúcidas são aromáticas?;Anacardiaceae;São trepadeiras com gavinhas?
+São trepadeiras com gavinhas?;Sapindaceae;Meliaceae
+As folhas simples são opostas?;As folhas são curvinérveas?;As folhas alternas possuem estípula?
+As folhas são curvinérveas?;Melastomataceae;A margem da folha é serreada?
+A margem da folha é serreada?;A folha de margem serreada é aromática?;A folha de margem lisa possui estípula interpeciolar?
+A folha de margem serreada é aromática?;Lamiaceae (Labiatae);Verbenaceae
+A folha de margem lisa possui estípula interpeciolar?;Rubiaceae;Myrtaceae
+As folhas alternas possuem estípula?;As estípulas são terminais?;A folha sem estípula é aromática?
+As estípulas são terminais?;Moraceae;Euphorbiaceae/Malvaceae
+A folha sem estípula é aromática?;O aroma é de casca de fruta?;Apresenta inflorescências em capítulos?
+O aroma é de casca de fruta?;Lauraceae;Solanaceae
+Apresenta inflorescências em capítulos?;Asteraceae (Compositae);Outras famílias
