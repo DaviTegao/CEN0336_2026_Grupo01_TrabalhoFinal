@@ -1,10 +1,9 @@
-As folhas são compostas?;As folhas são opostas/verticiladas?;Possui nós geniculares?
+As folhas são compostas?;As folhas são opostas/verticiladas?;As folhas simples são opostas?
 As folhas são opostas/verticiladas?;Bignoniaceae;As folhas alternas possuem estípulas?
 As folhas alternas possuem estípulas?;Fabaceae (Leguminosae);As folhas sem estípulas possuem pontuações translúcidas?
 As folhas sem estípulas possuem pontuações translúcidas?;Rutaceae;As folhas sem pontuações translúcidas são aromáticas?
 As folhas sem pontuações translúcidas são aromáticas?;Anacardiaceae;São trepadeiras com gavinhas?
-São trepadeiras com gavinhas?;Sapindaceae;Meliaceae
-Possui nós geniculares?;Piperaceae;As folhas simples são opostas?
+São trepadeiras com gavinhas?;Sapindaceae;MeliaceaeAs folhas simples são opostas?
 As folhas simples são opostas?;As folhas são curvinérveas?;As folhas simples possuem estípula?
 As folhas são curvinérveas?;Melastomataceae;A margem da folha é serreada?
 A margem da folha é serreada?;A folha de margem serreada é aromática?;A folha de margem lisa possui estípula interpeciolar?
