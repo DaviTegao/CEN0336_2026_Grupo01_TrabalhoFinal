@@ -11,6 +11,6 @@ Corpo alongado/vermiforme?;Cilíndrico e geralmente afilado nas extremidades?;Po
 Cilíndrico e geralmente afilado nas extremidades?;Nematoda;Corpo em fita E presença de probóscide eversível?
 Corpo em fita E presença de probóscide eversível?;Nemertea;Chaetognatha
 Possui lofóforo ou estrutura similar de tentáculos?;Corpo encerrado em duas valvas (dorsal/ventral)?;Chordata
-Corpo encerrado em duas valvas (dorsal/ventral)?Brachiopoda;Corpo colonial, formado por pequenos zoóides microscópicos?
+Corpo encerrado em duas valvas (dorsal/ventral)?;Brachiopoda;Corpo colonial, formado por pequenos zoóides microscópicos?
 Corpo colonial, formado por pequenos zoóides microscópicos?;Bryozoa;Pseudolofóforo presente E sem tubo protegendo o corpo?
 Pseudolofóforo presente E sem tubo protegendo o corpo?;Entoprocta;Phoronidas

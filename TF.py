@@ -1,7 +1,6 @@
 #pacotes
 
 import sys
-import re
 
 # Função para abrir 
 
@@ -11,7 +10,6 @@ def carregar_tabela(caminho):
 
     brutas = []
     for n, linha in enumerate(linhas, 1):
-        linha = re.sub(r"\?(?=[^;\s])", "?;", linha)
         campos = [c.strip() for c in linha.split(";")]
         while campos and campos[-1] == "":
             campos.pop()
@@ -54,11 +52,12 @@ def montar_dicionarios(brutas):
         if p not in conversao:
             print(f"[aviso] {p} ('{perguntas[p]}') é citada mas não tem linha própria na tabela.")
     return perguntas, conversao, respostas
-
+      
 # Idintificador
 
 def identificar(perguntas, conversao, respostas, inicio="P1"):
     px = inicio
+    hist = []
     while True:
         while True:
             r = input(f"\n{perguntas[px]} (s/n): ").strip().lower()
@@ -66,10 +65,21 @@ def identificar(perguntas, conversao, respostas, inicio="P1"):
                 break
             print("Responda com s ou n.")
         chave = "sim" if r.startswith("s") else "nao"
+        hist.append((perguntas[px], "Sim" if chave == "sim" else "Não"))
         destino = conversao[px][chave]
         if destino.startswith("R"):
             print(f"\n>>> Resultado: {respostas[destino]}")
+            while True:
+                d_hist = input("\nDeseja ver o histórico de perguntas? (s/n): ").strip().lower()
+                if d_hist in ("s", "sim", "n", "nao", "não"):
+                    break
+                print("Responda com s ou n.")
+            if d_hist in ("s", "sim"):
+                print(f"\nCaminho percorrido:\n")
+                for i, (pergunta, resp) in enumerate(hist, 1):
+                    print(f"{i}. {pergunta} -> {resp}")
             return respostas[destino]
+            return hist
         px = destino
 
 # Executando o código
